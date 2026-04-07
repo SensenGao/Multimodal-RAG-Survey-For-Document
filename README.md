@@ -88,7 +88,7 @@ This survey presents the **first comprehensive study** that explicitly bridges m
 
 ## Updates
 
-- **2026.05** - Paper accepted at **ACL 2026 Main Conference**!
+- **2026.04** - Paper accepted at **ACL 2026 Main Conference**!
 - **2025.10** - Paper available on [arXiv](https://arxiv.org/abs/2510.15253).
 
 ## Citation
