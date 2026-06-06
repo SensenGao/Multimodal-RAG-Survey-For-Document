@@ -46,6 +46,7 @@ This repository maintains a curated list of **methods**, **datasets**, and **ben
 
 ## Updates
 
+- **Ongoing** - We keep this list actively maintained! If you have a recent paper, or notice any relevant work we missed, feel free to [contact us](mailto:sensen.gao@mbzuai.ac.ae) or open an issue/PR — we'll include it in a future update.
 - **2026.04** - Paper accepted at **ACL 2026 Main Conference**!
 - **2025.10** - Paper available on [arXiv](https://arxiv.org/abs/2510.15253).
 
