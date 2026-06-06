@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="assets/home.png" width="90%" alt="Multimodal RAG for Document Understanding">
+  <img src="assets/home.png" width="54%" alt="Multimodal RAG for Document Understanding">
 </p>
 
 This repository maintains a curated list of **methods**, **datasets**, and **benchmarks** for Multimodal Retrieval-Augmented Generation (RAG) in Document Understanding, based on our ACL 2026 survey. We will keep updating this list. Feel free to open an issue or PR if we missed any relevant work!
